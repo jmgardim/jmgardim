@@ -1,7 +1,7 @@
 Olá! Sou o Jmgardim/João Matheus Gardim, Seja Bem Vindo ao Meu Repositório👋
 
 
-- 🔭 Trabalho Atualmente com back/front-end
+- 🔭 Trabalho Atualmente como back/front-end
 - 🌱 Estou Estudando JavaScript/Node.js
 - 📫 Email: jmgardim@hotmail.com
 
